@@ -6,5 +6,5 @@ replace golang.org/x/sys => github.com/golang/sys v0.0.0-20190422165155-953cdadc
 
 require (
 	github.com/jszwec/csvutil v1.2.1
-	github.com/sirupsen/logrus v1.4.1
+	github.com/sirupsen/logrus v1.8.3
 )
